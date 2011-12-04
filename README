@@ -1,0 +1,14 @@
+this is a little game maybe can improve your memmery
+
+== Game rules
+the rule is quite simple: 
+watch the number and click it in order
+
+== Requirement
+ruby shoes(https://github.com/shoes/shoes)
+
+== How to run
+install ruby shoes(https://github.com/shoes/shoes), and open d-game.rb with command "shoes d-game.rb"
+
+== Level setting
+edit the m-game.rb, and change the value of LEVEL
