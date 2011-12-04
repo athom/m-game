@@ -8,7 +8,7 @@ watch the number and click it in order
 ruby shoes(https://github.com/shoes/shoes)
 
 == How to run
-install ruby shoes(https://github.com/shoes/shoes), and open d-game.rb with command "shoes d-game.rb"
+install ruby shoes(https://github.com/shoes/shoes), and open m-game.rb with command "shoes m-game.rb"
 
 == Level setting
 edit the m-game.rb, and change the value of LEVEL
